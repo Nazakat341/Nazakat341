@@ -6,8 +6,8 @@
 
 I love being creative and aspiring the interesting dreams.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajidhussain71/)
-[![Email](https://img.shields.io/badge/Email-Contact-brightgreen?style=for-the-badge&logo=gmail)](mailto:sajidmcsbwn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://https://www.linkedin.com/in/nazakat-ali-35b300246/)
+[![Email](https://img.shields.io/badge/Email-Contact-brightgreen?style=for-the-badge&logo=gmail)](mailto:nazakatshehzad341@gmail.com)
 
 I've always been a person that if something fascinates me then 🔎 I'd find out how to do it, so programming has been a perfect fit for me. I love programming in all aspects but specially, my deep interest lies in Web development. I love reading books, playing cricket.  
  💻 Web Developer | 📚 Bookworm | 🏏 Cricket Enthusiast
