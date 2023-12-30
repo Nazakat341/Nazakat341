@@ -1,12 +1,4 @@
-### Hi there 👋
-
-<!--
-**Nazakat341/Nazakat341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... <div align="center">
+ <div align="center">
 
 # Hi, I'm Nazakat Ali
 
@@ -64,10 +56,3 @@ I've always been a person that if something fascinates me then 🔎 I'd find out
 ![Nazakat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nazakat341&background=1d1f21&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=58a6ff&fire=ffffff&ring=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=58a6ff&stroke=58a6ff)
 
 </div>
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
